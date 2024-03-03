@@ -1,11 +1,11 @@
-/*
+
 let numeroSecreto = 0;
 let intentos = 0;
 let listaNumerosSorteados = [];
 let numeroMaximo = 10;
 
 
-/*
+
 function asignarTextoElemento(elemento, texto) {
     let elementoHTML = document.querySelector(elemento);
     elementoHTML.innerHTML = texto;
@@ -76,7 +76,7 @@ function reiniciarJuego() {
 
 condicionesIniciales();
 
-*/
+
 //DESAFIOS
 //1.Crea una lista vacía llamada "listaGenerica".
 /*
@@ -132,7 +132,7 @@ function ordenInverso(){
  //promedioLista(numeros);
  console.log(Promedio);
  //let promedioLista(suma / lista.length);
-*/
+/*
  function ArrayAvg(myArray) {
     var i = 0, summ = 0, ArrayLen = myArray.length;
     while (i < ArrayLen) {
@@ -143,3 +143,4 @@ function ordenInverso(){
   var myArray = [10, 20, 30, 40, 50];
   var a = ArrayAvg(myArray);
   console.log(a)
+*/
